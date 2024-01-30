@@ -1,0 +1,30 @@
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.AssemblyInfoInputs.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.AssemblyInfo.cs
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.csproj.CoreCompileInputs.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.sourcelink.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/bin/Debug/net8.0/formacao_dotnet_DIO
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/bin/Debug/net8.0/formacao_dotnet_DIO.deps.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/bin/Debug/net8.0/formacao_dotnet_DIO.runtimeconfig.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/bin/Debug/net8.0/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/bin/Debug/net8.0/formacao_dotnet_DIO.pdb
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/refint/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.pdb
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/formacao_dotnet_DIO.genruntimeconfig.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/obj/Debug/net8.0/ref/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net8.0/formacao_dotnet_DIO
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net8.0/formacao_dotnet_DIO.deps.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net8.0/formacao_dotnet_DIO.runtimeconfig.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net8.0/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/bin/Debug/net8.0/formacao_dotnet_DIO.pdb
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.AssemblyInfoInputs.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.AssemblyInfo.cs
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.csproj.CoreCompileInputs.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.sourcelink.json
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/refint/formacao_dotnet_DIO.dll
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.pdb
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/formacao_dotnet_DIO.genruntimeconfig.cache
+/Users/amandafurtado/Documents/GitHub/formacao_dotnet_DIO/Sintaxe e Tipos de Dados em C#/obj/Debug/net8.0/ref/formacao_dotnet_DIO.dll
