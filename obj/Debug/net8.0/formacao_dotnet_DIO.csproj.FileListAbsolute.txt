@@ -1,0 +1,15 @@
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\bin\Debug\net8.0\formacao_dotnet_DIO.exe
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\bin\Debug\net8.0\formacao_dotnet_DIO.deps.json
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\bin\Debug\net8.0\formacao_dotnet_DIO.runtimeconfig.json
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\bin\Debug\net8.0\formacao_dotnet_DIO.dll
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\bin\Debug\net8.0\formacao_dotnet_DIO.pdb
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.AssemblyInfoInputs.cache
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.AssemblyInfo.cs
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.csproj.CoreCompileInputs.cache
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.sourcelink.json
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.dll
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\refint\formacao_dotnet_DIO.dll
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.pdb
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\formacao_dotnet_DIO.genruntimeconfig.cache
+C:\Users\amand\Documents\GitHub\formacao_dotnet_DIO\obj\Debug\net8.0\ref\formacao_dotnet_DIO.dll
